@@ -1,4 +1,5 @@
 FROM ubuntu:trusty
+MAINTAINER Michael Yockey (myockey@gmail.com)
 
 RUN apt-get install -y software-properties-common
 RUN add-apt-repository ppa:brightbox/ruby-ng
