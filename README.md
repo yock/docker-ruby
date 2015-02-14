@@ -1,2 +1,2 @@
-# Docker Sinatra
-Sinatra app server for Docker
+# Docker Ruby
+Ruby app server for Docker
